@@ -10,6 +10,7 @@ include_directories(include)
 set(SOURCES
     src/main.cpp
     src/hospital/Patient.cpp
+    src/user/User.cpp
 )
 
 # Add executable target

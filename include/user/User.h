@@ -22,8 +22,7 @@ public:
 
     void setId(const std::string &id);
     void setFullName(const std::string &fullName);
-void setAge(int & age);
-    void setAge(int age);
+    void setAge(int &age);
     void setGender(const std::string &gender);
     void setEmail(const std::string &email);
     void setTelNo(const std::string &telNo);

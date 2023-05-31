@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/CPP.dir/src/main.cpp.o CMakeFiles/CPP.dir/src/hospital/Patient.cpp.o CMakeFiles/CPP.dir/src/user/User.cpp.o -o CPP 
