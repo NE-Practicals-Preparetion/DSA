@@ -1,1 +1,17 @@
-build
+# Ignore build artifacts
+build/
+dist/
+bin/
+*.exe
+*.dll
+*.so
+
+# Ignore generated files
+*.o
+*.obj
+*.class
+
+# Ignore IDE-specific files
+.vscode/
+.idea/
+*.iml
