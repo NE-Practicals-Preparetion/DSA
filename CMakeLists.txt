@@ -1,5 +1,5 @@
 cmake_minimum_required(VERSION 3.12)
-project(CPP)
+project(DSA)
 
 set(CMAKE_CXX_STANDARD 11)
 
@@ -14,4 +14,4 @@ set(SOURCES
 )
 
 # Add executable target
-add_executable(CPP ${SOURCES})
+add_executable(DSA ${SOURCES})

@@ -15,3 +15,5 @@ bin/
 .vscode/
 .idea/
 *.iml
+
+*.txt
